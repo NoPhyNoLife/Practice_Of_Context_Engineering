@@ -7,14 +7,12 @@
 > 关于该主题的一篇入门指南，参见：
 > [👉 Context Engineering 入门介绍](https://mp.weixin.qq.com/s/F-GoAk-S_rZvQ0bB2YXIlw)
 
-⸻
 
 ## 关于本仓库
 
 本项目旨在通过一些**具体的工程实践**，探索现代上下文工程的实际应用方法。
 在阅读 README 之外，请查看 [**ProjectOutline.md**](/ProjectOutline.md) 文件，以获得整体概览。
 
-⸻
 
 # Context Engineering
 
@@ -25,10 +23,8 @@ Well-known protocols such as **MCP (Model Context Protocol)**, **LangGraph**, **
 > For an introductory guide on this topic, see:
 > [👉 Introduction to Context Engineering](https://mp.weixin.qq.com/s/F-GoAk-S_rZvQ0bB2YXIlw)
 
-⸻
 
 ## About this repository
 
 This project aims to explore practical approaches to modern **context engineering**.
 Please start with the [**ProjectOutline.md**](/ProjectOutline.md) file for a high-level overview besides reading the README.
-
